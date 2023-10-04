@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ProdigyInfo_Tech_#Task-02</title>
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+</head>
+<body> 
+    <h2 style="text-align: center;">Stopwatch Application</h2>
+    <div class="di">
+        <div class="card">
+            <div class="stopwatch">
+                <div class="time" id="display">00:00.00</div>
+                <button id="startStop" onclick="startStop()">Start</button>
+                <button id="reset" onclick="reset()">Reset</button>
+                <button id="lap" onclick="lap()">Lap</button>
+            </div>
+        </div>
+
+        <div class="timelap">
+            <div class="laps">
+                <ul id="lapList"></ul>
+            </div>
+        </div>
+    </div>
+    <script src="./scripting/script.js"></script>
+</body>
+</html>

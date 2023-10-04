@@ -1,0 +1,59 @@
+.di{
+    display: flex;
+}
+
+.card{
+    background-color: black;
+    margin: 2%;
+    padding: 5%;
+    width: 750px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.stopwatch {
+    text-align: center;
+    margin-top: 150px;
+    align-items: center;
+    border-style: hidden;
+    
+}
+
+.time {
+    font-size: 36px;
+    font-weight: bold;
+    color: aliceblue;
+    margin-bottom: 40px;
+}
+
+button {
+    margin-top: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+.laps {
+    text-align: left;
+    margin: 20px;
+    color: white;
+    display: flex;
+}
+
+.timelap{
+    background-color: rgb(15, 15, 15);
+    margin: 2%;
+    padding: 2%;
+    width: 300px;
+    height: auto;
+    margin-right: 30px;
+    border-radius: 20px;
+}
+
+.laps ul{
+    list-style: none;
+}
