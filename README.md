@@ -1,5 +1,6 @@
 #PRODIGY-WD-02
-                                                                Stopwatch Application ⏱️
+                                                              
+                                                                      Stopwatch Application ⏱️
 
 This stopwatch application was created as part of my virtual internship with PRODIGY-INFOTECH. It’s designed with an eye-catching UI and offers a fully functional stopwatch with essential features, including freeze/pause, lapse time tracking, and restart options.
 
